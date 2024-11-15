@@ -1,0 +1,18 @@
+table,
+td,
+th {
+    border: 1px solid;
+    color: black;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table tr:nth-child(even) {
+    background: #ccc;
+}
+p {
+    /* width: 200px; */
+    /* overflow: scroll; */
+}
